@@ -1,0 +1,17 @@
+CutiCare_Server
+
+Prerequisites: 
+
+nodejs,
+python
+pip
+tensorflow-node:latest
+C++ visual studio desktop application
+
+Steps:
+Trained model using jupyter notebook code
+save model as name.h5
+convert it to tensorflowjs
+tensorflowjsmodel path should give
+
+
