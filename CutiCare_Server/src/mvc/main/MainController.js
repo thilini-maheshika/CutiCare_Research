@@ -13,8 +13,8 @@ let model;
 
         // After loading the model, evaluate accuracy
 
-        const accuracy = await evaluateAccuracy('D:/React/Cuty/CutiCare/CutiCare_Server/config/model/dataset/testing');
-        console.log(`Model accuracy: ${accuracy * 100}%`);
+        // const accuracy = await evaluateAccuracy('D:/React/Cuty/CutiCare/CutiCare_Server/config/model/dataset/testing');
+        // console.log(`Model accuracy: ${accuracy * 100}%`);
     } catch (error) {
         console.error('Error loading model:', error);
     }
